@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Viktória Vidaházy"
 title_separator          : " "
-name                     : &name "Your Name"
+name                     : "Viktória Vidaházy"
 description              : "Viktoria's academic site"
-url                      : https://vvidahazy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://vvidahazy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
