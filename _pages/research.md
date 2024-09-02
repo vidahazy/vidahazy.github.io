@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-#### **Research interest**
+## **Research interest**
 
 International Finance, Empirical Banking, Climate Change, Applied Macroeconomics, Trade
 
-#### **Working Papers**
+## **Working Papers**
 
 **The impact of natural disasters on capital flows: Preparedness matters**
 
@@ -33,7 +33,7 @@ Draft available soon
 
 Draft available soon
 
-#### **Publications**
+## **Publications**
 
 **Deleveraging and Foreign Currency Loan Conversion Programs in Europe**
 
