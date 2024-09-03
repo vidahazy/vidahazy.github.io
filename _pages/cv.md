@@ -26,5 +26,3 @@ editor_options:
     Monetary Fund
 -   2019-2020: Research Assistant, International Policy Analysis unit,
     Swiss National Bank
-
-# 
