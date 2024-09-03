@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Viktoria Vidahazy"
+title: "Welcome,"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Welcome,
 
 I am a fifth-year PhD candidate at the [Geneva Graduate Institute](https://www.graduateinstitute.ch/discover-institute/viktoria-vidahazy). I visited the [Centre For Macroeconomics at LSE](https://www.lse.ac.uk/CFM) during the Winter and Spring terms of 2023-2024.
 
