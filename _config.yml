@@ -22,11 +22,16 @@ repository               : "ivhiekid/ivhiekid.github.io"
 author:
   # Biographic information
   avatar           : "vidahazy_viktoria.jpg"
+  
   name             : "Viktória Vidaházy"
+  
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate"
+  
   location         : "Zurich"
+  
   employer         : "Geneva Graduate Institute"
+  
   uri              : # URL
   email            : "viktoria.vidahazy@graduateinstitute.ch" 
 
