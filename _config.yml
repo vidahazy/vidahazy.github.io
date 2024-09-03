@@ -12,7 +12,7 @@ title                    : "Viktória Vidaházy"
 title_separator          : " "
 name                     : &name "Viktória Vidaházy"
 description              : &description "Viktoria's academic site"
-url                      : "https://ivhiekid.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://vidahazy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ivhiekid/ivhiekid.github.io"
 
