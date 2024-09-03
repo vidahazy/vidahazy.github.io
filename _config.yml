@@ -24,7 +24,7 @@ author:
   avatar           : #"profile.png"
   name             : "Viktória Vidaházy"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Zurich"
   employer         : "Geneva Graduate Institute"
   uri              : # URL
@@ -38,6 +38,7 @@ author:
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Viktoria-Vidahazy"
+  IDEAS/RePEc	   : "https://ideas.repec.org/f/pvi448.html"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
