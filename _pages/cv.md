@@ -16,8 +16,7 @@ editor_options:
 
 -   **PhD in International Economics,** Geneva Graduate Institute
     (IHEID), Switzerland, 2020-
--   **MSc in Economics,** Quantitative and Macroeconomic Policy
-    Orientation, University of Lausanne, Switzerland, 2017-2019
+-   **MSc in Economics,** University of Lausanne, Switzerland, 2017-2019
 -   **BSc in Economics,** University of Lausanne, Switzerland, 2014-2017
 
 # Work experience
