@@ -21,10 +21,15 @@ editor_options:
 
 # Work experience and Visits
 
--   Spring 2024: PhD Intern, Research Division, Sveriges Riksbank
--   Autumn 2023: Visiting PhD Student, Centre For Macroeconomics, London School of Economics
--   Summer 2023: PhD Summer Intern, European Department, International
-    Monetary Fund
--   2019-2020: Research Assistant, International Policy Analysis unit,
-    Swiss National Bank
-<iframe src="/files/pdf/Vidahazy_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+-   PhD Intern, Research Division, Sveriges Riksbank, Spring 2024
+
+-   Visiting PhD Student, Centre For Macroeconomics, London School of
+    Economics, Autumn 2023
+
+-   PhD Summer Intern, European Department, International Monetary Fund,
+    Summer 2023
+
+-   Research Assistant, International Policy Analysis unit, Swiss
+    National Bank, 2019-2020
+
+    <iframe src="/files/Vidahazy_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>

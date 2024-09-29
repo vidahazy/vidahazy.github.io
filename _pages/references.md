@@ -13,7 +13,7 @@ author_profile: true
     -   Associate Professor, Geneva Graduate Institute
     -   Email: [julia.cajal\@graduateinstitute.ch](mailto:julia.cajal@graduateinstitute.ch){.email}
     -   [Webpage](https://www.juliacajalgrossi.com/)
--   Silvana Tenreyro
+-   **Silvana Tenreyro**
     -   Professor, London School of Economics
     -   Email: [s.tenreyro\@lse.ac.uk](s.tenreyro@lse.ac.uk)
     -   [Webpage](https://personal.lse.ac.uk/tenreyro/)

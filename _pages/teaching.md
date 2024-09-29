@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I worked as a teaching assistant focusing on various subjects, including econometrics, macro- and microeconomics, and international economics, at both undergraduate and graduate levels in English and French.
+I worked as a teaching assistant, for econometrics, macro- and microeconomics, and international economics at the undergraduate and graduate levels in English and French.
 
 ## **Geneva Graduate Institute**
 
