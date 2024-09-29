@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
   
-  location         : "Zurich"
+  location         : #"Zurich"
   
   employer         : "Geneva Graduate Institute"
   
