@@ -19,17 +19,16 @@ editor_options:
 -   **MSc in Economics,** University of Lausanne, Switzerland, 2017-2019
 -   **BSc in Economics,** University of Lausanne, Switzerland, 2014-2017
 
-# Work experience and Visits
+# Work Experience and Visits
 
 -   PhD Intern, Research Division, Sveriges Riksbank, Spring 2024
-
 -   Visiting PhD Student, Centre For Macroeconomics, London School of
     Economics, Autumn 2023
-
 -   PhD Summer Intern, European Department, International Monetary Fund,
     Summer 2023
-
 -   Research Assistant, International Policy Analysis unit, Swiss
     National Bank, 2019-2020
 
-    <iframe src="/files/Vidahazy_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+    <iframe src="/files/Vidahazy_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0">
+
+    </iframe>
