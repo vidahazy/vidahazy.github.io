@@ -5,44 +5,28 @@ permalink: /teaching/
 author_profile: true
 ---
 
+I worked as a teaching assistant focusing on various subjects, including econometrics, macro- and microeconomics, and international economics, at both undergraduate and graduate levels in English and French.
+
 ## **Geneva Graduate Institute**
 
--   Econometrics I (2021 Autumn, 2022 Autumn)
+-   **Econometrics I** - Master level, Autumn 2021, 2022
 
-    -   Core course, Graduate level, in English
+-   **Econometrics II** - Master level, Spring 2022, 2023
 
--   Econometrics II (2022 Spring, 2023 Spring)
-
-    -   Core course, Graduate level, in English
-
--   Advanced Macroeconomics PhD (2021 Autumn)
-
-    -   Core course, PhD level, in English
+-   **Advanced Macroeconomics** - PhD level, Autumn 2021
 
 ## **University of Geneva**
 
--   Microeconomics (2020 Autumn)
+-   **Microeconomics** - Bachelor level, in French, Autumn 2020
 
-    -   Core course, Bachelor level, in French
+-   **Macroeconomics** - Bachelor level, in French, Autumn 2020
 
--   Macroeconomics (2020 Autumn)
+-   **Statistics** - Bachelor level, Spring 2021
 
-    -   Core course, Bachelor level, in French
-
--   Statistics (2021 Spring)
-
-    -   Bachelor level, in English
-
--   International Economics (2021 Spring)
-
-    -   Bachelor level, in French
+-   **International Economics** - Bachelor level, in French, Spring 2021
 
 ## **University of Lausanne**
 
--   Statistics (2019 Spring, 2018 Spring)
+-   **Statistics** - Bachelor level, in French, Spring 2018, 2019
 
-    -   Core course, Bachelor level, in French
-
--   Microeconomics (2018 Autumn)
-
-    -   Core course, Master level, in French
+-   **Microeconomics** - Master level, in French Autumn 2018
