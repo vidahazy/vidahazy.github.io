@@ -29,6 +29,6 @@ editor_options:
 -   Research Assistant, International Policy Analysis unit, Swiss
     National Bank, 2019-2020
 
-    <iframe src="/files/Vidahazy_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0">
+<iframe src="/files/Vidahazy_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0">
 
-    </iframe>
+</iframe>
