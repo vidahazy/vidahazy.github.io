@@ -7,7 +7,7 @@ author_profile: true
 
 ## **Research interest**
 
-International Finance, Empirical Banking, Climate Change, Applied Macroeconomics, Trade
+International Macroeconomics and Finance, Empirical Banking, Climate change
 
 ## **Working Papers**
 
@@ -15,7 +15,7 @@ International Finance, Empirical Banking, Climate Change, Applied Macroeconomics
 
 *-available at request*
 
-Climate and weather-related natural catastrophes have caused 74% of all disaster-related economic losses over the past fifty years. However, the possibly heterogeneous reactions of international capital flows, particularly in relation to country-specific vulnerability and preparedness levels, have received limited attention in the literature so far. Here I find that, after controlling for factors such as countries' socio-economic and institutional disaster vulnerability as well as overall physical risk, portfolio and bank flows are highly sensitive to natural disasters, while foreign direct investment is not. Using a novel approach that groups countries by their level of vulnerability and disaster risk through k-means clustering, I compare the severity of extreme events from two key perspectives - population exposure and disaster duration - and contrast the effects of domestic and foreign catastrophes. I find three main results. First, in country groups with low disaster risk but classified as unprepared due to high vulnerability, a 1 percentage point increase in population exposure to a local disaster reduces portfolio inflows and outflows by 5 to 20 percentage points and bank outflows by 40 percentage points of GDP. Second, when foreign disasters hit other countries within the low disaster risk, but unprepared group, portfolio equity inflows increase by 36 percentage points in the home country, suggesting a shift of investment to safer regions. Finally, population exposure has a larger effect on capital flows than duration in all specifications, emphasizing the importance of human impact in financial decision-making. These findings indicate that unprepared countries with low disaster risk may experience increased financial volatility due to the high responsiveness of portfolio and bank flows. As extreme events are likely to become more frequent in the future, these countries may face an increased risk premium if governments do not improve their disaster preparedness strategies.
+Climate and weather-related natural disasters pose a growing threat to financial stability. This paper examines the impact of natural disasters on international capital flows, focusing on how country-specific preparedness and risk levels affect investor behaviour. Using k-means clustering, I categorise countries according to their disaster risk and preparedness. I find that portfolio and bank flows are highly sensitive to natural disasters in countries with low disaster risk but classified as unprepared, while foreign direct investment is not. Moreover, external natural disasters affect portfolio equity inflows, suggesting a shift in investment towards safer regions. These findings highlight the important role of disaster preparedness in mitigating financial risks from natural disasters.
 
 **Green FDI and Environmental Policy Uncertainty**
 
