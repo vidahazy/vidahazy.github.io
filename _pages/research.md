@@ -7,7 +7,7 @@ author_profile: true
 
 ## **Research interest**
 
-International Macroeconomics and Finance, Empirical Banking, Climate change
+International Macroeconomics and Finance, Empirical Banking, Natural disasters, Climate change
 
 ## **Working Papers**
 
