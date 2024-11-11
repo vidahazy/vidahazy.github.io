@@ -22,6 +22,6 @@ author_profile: true
     -   Email: [ulf.soderstrom@riksbank.se](mailto:ulf.soderstrom@riksbank.se)
     -   [Webpage](https://sites.google.com/site/ulfcsoderstrom/)
 -   **Seyed Reza Yousefi** - policy
-    -   Senior Economist
+    -   Senior Economist, IMF
     -   Email: [SYousefi@imf.org](mailto:SYousefi@imf.org)
     -   [Webpage](https://www.sryousefi.com/)

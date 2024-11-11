@@ -7,15 +7,15 @@ author_profile: true
 
 ## **Research interest**
 
-International Macroeconomics and Finance, Empirical Banking, Climate change
+International Macroeconomics and Finance, Empirical Banking, Natural disasters, Climate change
 
 ## **Working Papers**
 
-**The Impact of Natural Disasters on Capital Flows: Exposure and Preparedness**
+**The Impact of Natural Disasters on Capital Flows: Preparedness and Exposure Matter**
 
 *-available at request*
 
-Natural disasters are becoming a growing source of macroeconomic shocks. In addition to their direct impact on growth and inflation, they may also affect future financial conditions, which would be reflected in current investment decisions. This paper analyses how a country's disaster preparedness and risk level affect capital flows. The results show that in countries with low disaster risk but poor preparedness, portfolio and bank flows fall sharply - by 5 to 20 percentage points of GDP - after a disaster, while foreign direct investment remains unaffected. This suggests that capital flows with lower investor commitment are more sensitive to disasters. In addition, external disasters in countries with similar risk profiles lead to a 39 percentage point increase in portfolio equity inflows, suggesting a shift in investment towards relatively safer regions.
+Natural disasters cause increasing economic damage worldwide, with weather events costing around \$143 billion annually. While research has examined various economic effects of disasters, their impact on international capital flows has received limited attention in the literature. Relying on a machine learning technique to classify countries by disaster risk and preparedness, this study finds that preparedness, rather than disaster risk alone, drives investment behaviour. In less prepared, low-risk countries, a 0.1 percentage point increase in the disaster-affected population reduces portfolio and other flows by 0.5-4.3 percentage points of GDP. The impact goes beyond the affected areas: external disasters increase portfolio equity inflows by 3.6 percentage points in unaffected low-risk, less prepared countries, suggesting a shift of capital to safer markets.
 
 **Green FDI and Environmental Policy Uncertainty**
 
@@ -24,6 +24,8 @@ Natural disasters are becoming a growing source of macroeconomic shocks. In addi
 Draft available soon
 
 **Loan Dynamics in the Face of El Nino: Unveiling Patterns in Peru’s Lending Channels**
+
+*-joint with Alvaro Alejandro Hinostroza Lamilla and Gerald Alex Cisneros Rojas*
 
 Draft available soon
 
