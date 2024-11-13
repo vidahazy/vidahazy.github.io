@@ -13,7 +13,7 @@ International Macroeconomics and Finance, Empirical Banking, Natural disasters, 
 
 **The Impact of Natural Disasters on Capital Flows: Preparedness and Exposure Matter**
 
-*-available at request*
+*-[Draft available](https://vidahazy.github.io/files/Vidahazy_JMP.pdf)*
 
 Natural disasters cause increasing economic damage worldwide, with weather events costing around \$143 billion annually. While research has examined various economic effects of disasters, their impact on international capital flows has received limited attention in the literature. Relying on a machine learning technique to classify countries by disaster risk and preparedness, this study finds that preparedness, rather than disaster risk alone, drives investment behaviour. In less prepared, low-risk countries, a 0.1 percentage point increase in the disaster-affected population reduces portfolio and other flows by 0.5-4.3 percentage points of GDP. The impact goes beyond the affected areas: external disasters increase portfolio equity inflows by 3.6 percentage points in unaffected low-risk, less prepared countries, suggesting a shift of capital to safer markets.
 
