@@ -26,7 +26,7 @@ Natural disasters increase economic losses worldwide, with severe weather events
 To achieve higher investment flows in green technologies and mitigate potential climate transition risks,
 governments are increasingly competing to attract Foreign Direct Investments (FDI) in specific environmental technologies. However, we lack empirical evidence on whether these climate policies actually increase greenfield environmental technology investment and associated job creation, key measures of the success of these policies. In this paper, we show for the first time that the Renewable Portfolio Standard (RPS), a US policy that requires utilities to source electricity from renewable energy, successfully attracts investment in greenfield environmental technology by $840 million and creates 649 additional jobs on average in states enacting RPS. However, these effects take six to seven years to materialise and are overestimated by $90 million and 110 jobs when the impact of cross-state renewable energy trading effects is ignored.
 
-**Loan Dynamics in the Face of El Nino: Unveiling Patterns in Peru’s Lending Channels**
+**Financial Institutions and Climate Shocks: Pre-emptive vs. Reactive Lending Adjustments in the Case of El Niño**
 
 *-joint with Alvaro Alejandro Hinostroza Lamilla and Gerald Alex Cisneros Rojas*
 
