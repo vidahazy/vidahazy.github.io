@@ -13,4 +13,4 @@ My research interests lie in international economics, with a focus on climate ch
 
 I have previously worked at different policy institutions, including the [Research Division at the Sveriges Riksbank](https://www.riksbank.se/en-gb/about-the-riksbank/the-tasks-of-the-riksbank/research/economists-at-the-research-division/), the European Department at the International Monetary Fund, and the International Policy Analysis unit at the Swiss National Bank. I visited the [Centre For Macroeconomics at LSE](https://www.lse.ac.uk/CFM) during the Winter and Spring terms of 2023-2024.
 
-*All views expressed on this site are my own and do not necessarily reflect the views of the ECB or the Eurosystem. 
+_All views expressed on this site are my own and do not necessarily reflect the views of the ECB or the Eurosystem._ 
