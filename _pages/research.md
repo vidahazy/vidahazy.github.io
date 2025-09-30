@@ -21,7 +21,7 @@ Natural disasters increase economic losses worldwide, with severe weather events
 
 *-joint with [Joëlle Noailly](https://www.joellenoailly.com/)*
 
-*-Draft available at request
+*-Draft available at request*
 
 To achieve higher investment flows in green technologies and mitigate potential climate transition risks,
 governments are increasingly competing to attract Foreign Direct Investments (FDI) in specific environmental technologies. However, we lack empirical evidence on whether these climate policies actually increase greenfield environmental technology investment and associated job creation, key measures of the success of these policies. In this paper, we show for the first time that the Renewable Portfolio Standard (RPS), a US policy that requires utilities to source electricity from renewable energy, successfully attracts investment in greenfield environmental technology by $840 million and creates 649 additional jobs on average in states enacting RPS. However, these effects take six to seven years to materialise and are overestimated by $90 million and 110 jobs when the impact of cross-state renewable energy trading effects is ignored.
@@ -30,7 +30,7 @@ governments are increasingly competing to attract Foreign Direct Investments (FD
 
 *-joint with Alvaro Alejandro Hinostroza Lamilla and Gerald Alex Cisneros Rojas*
 
-*-[Working paper](https://www.bcrp.gob.pe/docs/Publicaciones/Documentos-de-Trabajo/2025/documento-de-trabajo-007-2025.pdf)
+*-[Working paper](https://www.bcrp.gob.pe/docs/Publicaciones/Documentos-de-Trabajo/2025/documento-de-trabajo-007-2025.pdf)*
 
 Financial institutions are increasingly exposed to climate change through their balance sheets. Nonetheless, the way in which they process climate information remains poorly understood. This paper examines whether financial institutions respond reactively to natural disasters or pre-emptively to climate forecasts, using Peruvian credit registry data. Relying on revisions to El Niño probability forecasts as an exogenous climate news shock, we find that financial institutions engage in forward-looking risk management during El Niño episodes. Specifically, a 10-percentage-point revision increases credit growth by 0.5 basis points, compared to the typical 6 basis points of month-to-month credit growth changes. In addition, the same forecast revision increases bank capitalisation by over 1 percentage point, compared to the average capital position of 18%. The increased lending amounts to 54 million soles per month, equivalent to 6.5% of new loans issued nationwide each month. These pre-emptive adjustments occur in response to forecast revisions alone, independent of actual disasters.
 
